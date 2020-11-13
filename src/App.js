@@ -1,5 +1,5 @@
 import './App.css';
-import './bulma.css'
+import './bulma.min.css'
 
 function App() {
   return (
